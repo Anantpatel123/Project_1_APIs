@@ -3,7 +3,9 @@
 
 ### Project Summary: 
 
-##### Product search using ** Best Buy AND YouTube API**. 
+
+#### Product search using Best Buy AND YouTube API. 
+
 
     1. User picks a product category and inputs desired product name into the search box.
 
@@ -25,6 +27,6 @@
        recently searched products.
 
  
- ## link to project:  
+ ### link to project:  
  
     https://anantpatel123.github.io/Project_1_APIs/ 
